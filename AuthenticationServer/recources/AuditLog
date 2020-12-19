@@ -1,0 +1,18 @@
+2020-02-06 09:21:12.279 Failed Login alex /127.0.0.1
+2020-02-06 09:23:37.966 Failed Login user2 /127.0.0.1
+2020-02-06 09:46:18.648 Failed Login user2 /127.0.0.1
+2020-02-06 10:27:43.387 Failed Login alex /127.0.0.1
+2020-02-06 12:41:25.714 1451043227 Configuration Change nora /127.0.0.1 remove-admin-user nora
+
+2020-02-06 12:41:33.604 1451043227 Configuration Change nora /127.0.0.1 remove-admin-user nora
+
+2020-02-06 12:42:25.565 1451043227 Configuration Change nora /127.0.0.1 add-admin-user lola
+
+2020-02-06 12:42:34.878 1451043227 Configuration Change nora /127.0.0.1 add-admin-user nick
+
+2020-02-06 12:43:41.313 2121744517 Configuration Change nick /127.0.0.1 remove-admin-user nora
+
+2020-02-06 12:45:54.342 1451043227 Configuration Change nora /127.0.0.1 remove-admin-user nora
+
+2020-02-06 17:58:17.7 2121744517 Configuration Change nora /127.0.0.1 add-admin-user nick
+2020-02-06 17:58:17.768 2121744517 Configuration Change nora /127.0.0.1 Successful
